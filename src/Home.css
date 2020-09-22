@@ -5,6 +5,13 @@
     margin-bottom: -150px;
 }
 
+.home_row {
+    display: flex;
+    z-index: 1;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
 
 .home {
     max-width: 1500px;
